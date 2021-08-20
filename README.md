@@ -1,5 +1,5 @@
 ## Olá, meu nome é Bruno Sales
-Atualmente eu estudo na Uninove o curso de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas 4° Semestre)
+            Atualmente eu estudo na Uninove o curso de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas 4° Semestre)
 <strong><upercase><br>As linguagens que mais uso são:</strong>
 <br>✔HTML
 <br>✔CSS
